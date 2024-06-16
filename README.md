@@ -9,3 +9,4 @@ MY DETAILS:
 - 📫 How to reach me: vidhyasampath27@gmail.com
 - 😄 Pronouns:SHE/HER
 - 💻 SKILLS:Java,Oracle Sql.
+  
